@@ -27,7 +27,7 @@ Settings
 2. Create GitHub Codespace in the Forked Repository.
 3. Run `bit login` and login into your Bit Account through the Codespace.
 4. After logging in, run the command - `bit config get user.token` in the Codespace and copy the token.
-5. Go to GitHub and add a secret named - `BIT_CONFIG_USER_TOKEN` and provide the copied value from terminal. The URL is - https://github.com/settings/codespaces. Give access to the repository that you forked into to let that repo consume the variable.
+5. Go to GitHub and add a secret named - `BIT_CONFIG_USER_TOKEN` and provide the copied value from terminal. The URL is - https://github.com/settings/codespaces. Give access to the repository that you forked into to let that repo consume the variable. This is a one time action that you need to perform.
 
 ---
 If you need help creating the Codespace, it's attached below:
