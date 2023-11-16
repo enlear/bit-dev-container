@@ -1,4 +1,4 @@
-# Bit Development Container
+# Bit Development Container: GitHub Codespaces
 
 ## Overview
 
